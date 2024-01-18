@@ -8,3 +8,6 @@
 
 ## Notebook
 [Run my Colab Notebook here](https://colab.research.google.com/drive/1qJIowO0O3EqLnBCXbGlpBdPiM9_Z8b-0#scrollTo=idABBQhYyjYQ)
+
+## Segmentation Results
+![](barrel_yolov8.png)
