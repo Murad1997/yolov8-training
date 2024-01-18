@@ -5,3 +5,6 @@
   -  `ultralytics` is the application programming interface (API) provided by the created of the creator of the Yolov8. [Here](https://docs.ultralytics.com/) is the link to the GitHub repo.
 * In this notebook, we select `Barrel` class from the OpenImageV7 and perform the `Segmentation`.
 
+
+## Notebook
+[Run my Colab Notebook here](https://colab.research.google.com/drive/1qJIowO0O3EqLnBCXbGlpBdPiM9_Z8b-0#scrollTo=idABBQhYyjYQ)
